@@ -887,8 +887,9 @@ footer .footer__bottom .nav-link {
 
 @media screen and (max-width: 576px) {
   .cover .cover__content {
-    max-width: 400px;
+    max-width: 300px;
     left: 10%;
+    font-size: 13px;
   }
 }
 
